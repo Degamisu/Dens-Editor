@@ -4,3 +4,4 @@ D:\Github\DEGAMISU\Dens-Editor\obj\Debug\net8.0-windows\Dens-Editor.GeneratedMSB
 D:\Github\DEGAMISU\Dens-Editor\obj\Debug\net8.0-windows\Dens-Editor.AssemblyInfoInputs.cache
 D:\Github\DEGAMISU\Dens-Editor\obj\Debug\net8.0-windows\Dens-Editor.AssemblyInfo.cs
 D:\Github\DEGAMISU\Dens-Editor\obj\Debug\net8.0-windows\Dens-Editor.csproj.CoreCompileInputs.cache
+D:\Github\DEGAMISU\Dens-Editor\obj\Debug\net8.0-windows\Dens-Editor.sourcelink.json
