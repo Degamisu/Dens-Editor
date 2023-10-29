@@ -1,0 +1,6 @@
+D:\Github\DEGAMISU\Dens-Editor\obj\Debug\net8.0-windows\Dens_Editor.Form1.resources
+D:\Github\DEGAMISU\Dens-Editor\obj\Debug\net8.0-windows\Dens-Editor.csproj.GenerateResource.cache
+D:\Github\DEGAMISU\Dens-Editor\obj\Debug\net8.0-windows\Dens-Editor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\DEGAMISU\Dens-Editor\obj\Debug\net8.0-windows\Dens-Editor.AssemblyInfoInputs.cache
+D:\Github\DEGAMISU\Dens-Editor\obj\Debug\net8.0-windows\Dens-Editor.AssemblyInfo.cs
+D:\Github\DEGAMISU\Dens-Editor\obj\Debug\net8.0-windows\Dens-Editor.csproj.CoreCompileInputs.cache
