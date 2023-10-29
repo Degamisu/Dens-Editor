@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dens-Editor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67cf1f54ce2a23ca12ba71cbed1fc3f0b8112a9f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dens-Editor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dens-Editor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

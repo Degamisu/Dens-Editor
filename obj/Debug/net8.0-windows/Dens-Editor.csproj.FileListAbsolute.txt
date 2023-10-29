@@ -5,3 +5,13 @@ D:\Github\DEGAMISU\Dens-Editor\obj\Debug\net8.0-windows\Dens-Editor.AssemblyInfo
 D:\Github\DEGAMISU\Dens-Editor\obj\Debug\net8.0-windows\Dens-Editor.AssemblyInfo.cs
 D:\Github\DEGAMISU\Dens-Editor\obj\Debug\net8.0-windows\Dens-Editor.csproj.CoreCompileInputs.cache
 D:\Github\DEGAMISU\Dens-Editor\obj\Debug\net8.0-windows\Dens-Editor.sourcelink.json
+D:\Github\DEGAMISU\Dens-Editor\bin\Debug\net8.0-windows\Dens-Editor.exe
+D:\Github\DEGAMISU\Dens-Editor\bin\Debug\net8.0-windows\Dens-Editor.deps.json
+D:\Github\DEGAMISU\Dens-Editor\bin\Debug\net8.0-windows\Dens-Editor.runtimeconfig.json
+D:\Github\DEGAMISU\Dens-Editor\bin\Debug\net8.0-windows\Dens-Editor.dll
+D:\Github\DEGAMISU\Dens-Editor\bin\Debug\net8.0-windows\Dens-Editor.pdb
+D:\Github\DEGAMISU\Dens-Editor\obj\Debug\net8.0-windows\Dens-Editor.dll
+D:\Github\DEGAMISU\Dens-Editor\obj\Debug\net8.0-windows\refint\Dens-Editor.dll
+D:\Github\DEGAMISU\Dens-Editor\obj\Debug\net8.0-windows\Dens-Editor.pdb
+D:\Github\DEGAMISU\Dens-Editor\obj\Debug\net8.0-windows\Dens-Editor.genruntimeconfig.cache
+D:\Github\DEGAMISU\Dens-Editor\obj\Debug\net8.0-windows\ref\Dens-Editor.dll

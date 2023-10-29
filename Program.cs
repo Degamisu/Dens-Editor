@@ -1,4 +1,13 @@
 namespace Dens_Editor
 {
-    internal static class Program
-         // add logging functionality
+    public static class Program
+    {
+        [STAThread]
+        public static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
+        }
+    }
+}
