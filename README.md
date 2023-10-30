@@ -15,6 +15,7 @@
 [Contact](#Contact)
 
 ---
+
 ## Overview
 The project is an editor specifically designed for the file extension ".dens" (Degamisu N64 Scripts). It provides a user-friendly interface for editing and manipulating files in the ".dens" format. The editor is equipped with a built-in text editor, with syntax highlighting functionality coming soon. This allows users to easily view, modify, and create ".dens" files within the editor.
 
@@ -30,10 +31,12 @@ The editor enables users to seamlessly read and write files in the ".dens" forma
 ## Installation
 To get started with the project, follow these steps:
 
-Clone the repository: git clone https://github.com/your-repo.git
-Install the required dependencies: npm install
-Run the project: npm start
-Make sure you have Node.js and npm installed on your system before proceeding with the installation.
+1. Clone the repository: git clone https://github.com/degamisu/dens-editor
+2. Open `Dens-Editor.sln`
+3. Build project
+4. Run project
+
+You are finished!
 
 ## Usage
 - Use the built-in text editor to open existing ".dens" files or create new ones.
